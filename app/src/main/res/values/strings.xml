@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">GameZopTask</string>
+    <string name="title_activity_webview">WebviewActivity</string>
 </resources>
